@@ -11,7 +11,7 @@
 
 |Name|Url|Desc|
 |-|-|-|
-|`geektrcloud/caddy`|[geektr-cloud/caddy](https://github.com/geektr-cloud/caddy)|caddy with tons of plugins (git,cors,realip,expires,cache,cloudflare,dyndns,cgi,filter,forwardproxy,geoip,grpc,ipfilter,jwt,login,s3browser)|
+|`geektrcloud/caddy`|[geektr-cloud/caddy](https://github.com/geektr-cloud/caddy)|caddy with tons of plugins (git, cors, realip, expires, cache, cloudflare, dyndns, cgi, filter, forwardproxy, geoip, grpc, ipfilter, jwt, login, s3browser)|
 |`geektrcloud/verdaccio`|[geektr-cloud/verdaccio](https://github.com/geektr-cloud/verdaccio)|verdaccio with verdaccio-gitlab|
 |`gcbuilder/node` ...|[geektr-cloud/gitlab-ci-builder](https://github.com/geektr-cloud/gitlab-ci-builder)|Gitlab CI 构建环境镜像|
 

@@ -5,7 +5,7 @@
 - 开发基础服务 https://github.com/geektr-cloud/dev-base-services
   - Gitlab https://git.geektr.co
   - Verdaccio https://npm.geektr.co
-  - Docker Registy https://registy.geektr.co
+  - Docker Registry http://registry.geektr.co/
 
 ## Docker Images
 
